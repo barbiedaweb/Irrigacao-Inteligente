@@ -20,6 +20,7 @@ body {
 
 #photo {
     max-width: 200px;
+    text-align: center;
 }
 
 .titulo {
