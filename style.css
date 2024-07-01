@@ -25,3 +25,7 @@ body {
 .titulo {
     text-align: center;
 }
+
+.resumo {
+    font-size: 4;
+}
