@@ -21,3 +21,7 @@ body {
 #photo {
     width: 20%;
 }
+
+.titulo {
+    text-align: center;
+}
