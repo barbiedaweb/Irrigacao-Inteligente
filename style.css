@@ -18,8 +18,8 @@ body {
     font-style: normal;
 }
 
-#photo {
-    max-width: 200px;
+.photo {
+    width: 30%;
 }
 
 .titulo {
@@ -28,4 +28,8 @@ body {
 
 .resumo {
     font-size: 5;
+}
+
+.foto {
+    text-align: center;
 }
